@@ -1,5 +1,5 @@
 
-# Groq-Powered Multi-Tool AI Orchestrator using LangGraph
+# Groq-Powered Multi-Agent-Tool AI Orchestrator using LangGraph
 
 ## Overview
 This project is a Multi-Tool AI Agent built using LangGraph and Groq’s Llama 3 LLM.  
