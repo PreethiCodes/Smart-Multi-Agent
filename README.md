@@ -53,4 +53,3 @@ Each tool is handled in a dedicated node:
 
 ---
 
-## Project Structure
