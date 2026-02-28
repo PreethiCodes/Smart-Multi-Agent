@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-groq
+wikipedia
+qrcode[pil]
+gtts
+langdetect
+python-dotenv
